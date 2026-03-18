@@ -1,6 +1,6 @@
 # Обои МИФ
 
-[Вдохновляющие обои МИФ](https://blog.mann-ivanov-ferber.ru/tag/oboi/) для смартфона стола с цитатами и календарем.
+Источник: [Вдохновляющие обои МИФ](https://blog.mann-ivanov-ferber.ru/tag/oboi/) для смартфона стола с цитатами и календарем.
 
 ![](mif-mobile/2.png)
 

@@ -1,6 +1,7 @@
 # NASA APOD
 
-[NASA Astronomy Picture of the Day](https://apod.nasa.gov)
+Источник: [NASA Astronomy Picture of the Day](https://apod.nasa.gov)
+
 Каждый день новое изображение космоса, особенно впечатляют туманности и галактики!
 
 ![](nasa-apod/ap260304_Shapley1_Bresseler_960.jpg)
